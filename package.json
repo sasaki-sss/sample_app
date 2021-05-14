@@ -5,11 +5,18 @@
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
-    "@rails/webpacker": "4.3.0",
+    "@rails/webpacker": "^5.3.0",
+    "bootstrap": "3.4.1",
+    "jquery": "3.4.1",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
   "devDependencies": {
+    "webpack": "^5.37.0",
     "webpack-dev-server": "^3.11.2"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/sasaki-sss/sample_app.git",
+  "author": "sasaki <a2014as@aiit.ac.jp>",
+  "license": "MIT"
 }
